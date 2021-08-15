@@ -35,6 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Easy and FREE Contact Forms in Express.js](https://youtu.be/7BBX9Gjl278)
 - [Slick, Simple Scroll Animations with React Reveal](https://www.youtube.com/watch?v=p_ABnPliyLg&t=267s)
 <!-- YOUTUBE:END -->
 
