@@ -35,6 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Props Vs. State in React](https://www.youtube.com/watch?v=wxlzRYwyp3k)
 - [Easily Build a Simple Chat App with Socket.io](https://youtu.be/BOn36-hA8iQ)
 - [Easy and FREE Contact Forms in Express.js](https://youtu.be/7BBX9Gjl278)
 - [Slick, Simple Scroll Animations with React Reveal](https://www.youtube.com/watch?v=p_ABnPliyLg&t=267s)
