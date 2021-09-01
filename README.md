@@ -3,7 +3,7 @@
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewbhickman/)
 
 ### I'm a Full Stack JavaScript Developer, and Lifelong Learner!
-🎓 I recently completed [Team Treehouse's Full Stack JavaScript Techdegree](https://teamtreehouse.com/techdegree/full-stack-javascript)
+🎓 I recently completed [Team Treehouse's Full Stack JavaScript Techdegree](https://teamtreehouse.com/techdegree/full-stack-javascript) \
 ⚡ Fun fact: I love to run and play the piano!
 
 ### Connect with me:
