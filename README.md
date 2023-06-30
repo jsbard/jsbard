@@ -7,7 +7,7 @@
 
 🌱 I'm a lifelong learner who is always looking for the next challenge. I'm currently diving deeper into the world of modern JavaScript frameworks and libraries, and I'm particularly excited about the potential of headless WordPress configurations.
 
-⚡ Outside of coding, I'm an avid runner and a piano enthusiast. I find that these activities, much like coding, require a blend of creativity, discipline, and a constant desire to improve. They're the perfect complements to my life as a developer!
+⚡ Outside of coding, I'm an avid runner and a piano enthusiast. I find that these activities, much like coding, require a blend of creativity, discipline, and a constant desire to improve.
 
 ### Connect with me:
 
