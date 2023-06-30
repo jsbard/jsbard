@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andrewhickman.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.andrewhickman.me)
+[<img align="left" alt="andrewhickman.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://andrewhickman.me)
 [<img align="left" alt="WordPress Whispers | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpresswhispers.com)
 [<img align="left" alt="WPWhispers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WPWhispers)
 [<img align="left" alt="Andrew B. Hickman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andrewbhickman)
@@ -45,7 +45,7 @@
 - [Exploring User Authentication Methods In The WordPress REST API: A Detailed Walkthrough](https://wordpresswhispers.com/exploring-user-authentication-methods-in-the-wordpress-rest-api-a-detailed-walkthrough/)
 - [Creating Custom Endpoints With The WordPress REST API](https://wordpresswhispers.com/creating-custom-endpoints-with-the-wordpress-rest-api/)
 - [Enhancing Shortcodes With JavaScript For WordPress](https://wordpresswhispers.com/enhancing-shortcodes-with-javascript-for-wordpress/)
-- [A Deep Dive Into WordPress REST API Endpoints]([https://wordpresswhispers.com/blog/post4](https://wordpresswhispers.com/a-deep-dive-into-wordpress-rest-api-endpoints/)https://wordpresswhispers.com/a-deep-dive-into-wordpress-rest-api-endpoints/)
+- [A Deep Dive Into WordPress REST API Endpoints](https://wordpresswhispers.com/a-deep-dive-into-wordpress-rest-api-endpoints/)https://wordpresswhispers.com/a-deep-dive-into-wordpress-rest-api-endpoints/)
 <!-- BLOGPOSTS:END -->
 
 
