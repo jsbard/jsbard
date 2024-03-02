@@ -9,14 +9,7 @@
 
 ⚡ Outside of coding, I'm an avid runner and a piano enthusiast. I find that these activities, much like coding, require a blend of creativity, discipline, and a constant desire to improve.
 
-### Connect with me:
 
-[<img align="left" alt="andrewhickman.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://andrewhickman.me)
-[<img align="left" alt="WordPress Whispers | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpresswhispers.com)
-[<img align="left" alt="WPWhispers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WPWhispers)
-[<img align="left" alt="Andrew B. Hickman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andrewbhickman)
-
-<br />
 
 ### Languages and Tools:
 
@@ -51,10 +44,6 @@
 </table>
 
 
-
-<br />
-<br />
-
 ---
 
 ### 📚 Latest Blog Posts
@@ -70,5 +59,14 @@
 
 ---
 
+### Connect with me:
+
+[<img align="left" alt="andrewhickman.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://andrewhickman.me)
+[<img align="left" alt="WordPress Whispers | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpresswhispers.com)
+[<img align="left" alt="WPWhispers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WPWhispers)
+[<img align="left" alt="Andrew B. Hickman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andrewbhickman)
 
 
+
+<br />
+<br />
