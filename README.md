@@ -60,10 +60,6 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [Exploring User Authentication Methods In The WordPress REST API: A Detailed Walkthrough](https://wordpresswhispers.com/exploring-user-authentication-methods-in-the-wordpress-rest-api-a-detailed-walkthrough/)
-- [Creating Custom Endpoints With The WordPress REST API](https://wordpresswhispers.com/creating-custom-endpoints-with-the-wordpress-rest-api/)
-- [Enhancing Shortcodes With JavaScript For WordPress](https://wordpresswhispers.com/enhancing-shortcodes-with-javascript-for-wordpress/)
-- [A Deep Dive Into WordPress REST API Endpoints](https://wordpresswhispers.com/a-deep-dive-into-wordpress-rest-api-endpoints/)
 <!-- BLOGPOSTS:END -->
 
 
