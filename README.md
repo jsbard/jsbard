@@ -60,10 +60,10 @@
 ### 📚 Latest Blog Posts
 
 <!-- BLOGPOSTS:START -->
-- [Setting Up A Headless WordPress Environment with React: A Practical Guide](https://wordpresswhispers.com/setting-up-a-headless-wordpress-environment-with-react-a-practical-guide/?utm_source=rss&utm_medium=rss&utm_campaign=setting-up-a-headless-wordpress-environment-with-react-a-practical-guide)
-- [Customizing WooCommerce API Responses for Successful E-Commerce](https://wordpresswhispers.com/customizing-woocommerce-api-responses/?utm_source=rss&utm_medium=rss&utm_campaign=customizing-woocommerce-api-responses)
-- [Guide to Setting Up and Configuring the WooCommerce API](https://wordpresswhispers.com/guide-to-setting-up-and-configuring-the-woocommerce-api/?utm_source=rss&utm_medium=rss&utm_campaign=guide-to-setting-up-and-configuring-the-woocommerce-api)
-- [WordPress vs React – Which Is Right For Your Project?](https://wordpresswhispers.com/wordpress-vs-react/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-vs-react)
+- [Setting Up A Headless WordPress Environment with React: A Practical Guide](https://wordpresswhispers.com/setting-up-a-headless-wordpress-environment-with-react-a-practical-guide/?utm_source=rss&utm_medium=rss&utm_campaign=setting-up-a-headless-wordpress-environment-with-react-a-practical-guide) - *February 26th, 2024*
+- [Customizing WooCommerce API Responses for Successful E-Commerce](https://wordpresswhispers.com/customizing-woocommerce-api-responses/?utm_source=rss&utm_medium=rss&utm_campaign=customizing-woocommerce-api-responses) - *January 15th, 2024*
+- [Guide to Setting Up and Configuring the WooCommerce API](https://wordpresswhispers.com/guide-to-setting-up-and-configuring-the-woocommerce-api/?utm_source=rss&utm_medium=rss&utm_campaign=guide-to-setting-up-and-configuring-the-woocommerce-api) - *January 8th, 2024*
+- [WordPress vs React – Which Is Right For Your Project?](https://wordpresswhispers.com/wordpress-vs-react/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-vs-react) - *January 1st, 2024*
 <!-- BLOGPOSTS:END -->
 
 
