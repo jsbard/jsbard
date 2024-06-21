@@ -3,9 +3,9 @@
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewbhickman/)
 
 ### I'm a Full Stack JavaScript and WordPress Theme Developer.
-🎓 In 2021 I completed Team Treehouse's Full Stack JavaScript Techdegree, an intensive program that has honed my skills in JavaScript, Node.js, Express, and React. Additionally, I have over two years of professional experience building custom WordPress themes for a variety of clients and markets.
+🎓 In 2021, I completed Team Treehouse's Full Stack JavaScript Techdegree, an intensive program that honed my skills in JavaScript, Node.js, Express, and React. Additionally, I have over two years of professional experience building custom WordPress themes and plugins for a variety of clients and markets.
 
-🌱 I'm a lifelong learner who is always looking for the next challenge. I'm currently diving deeper into the world of modern JavaScript frameworks and libraries, and I'm particularly excited about the potential of headless WordPress configurations.
+🌱 I'm a lifelong learner who is always looking for the next challenge. I am particularly excited about the potential of headless WordPress configurations.
 
 ⚡ Outside of coding, I'm an avid runner and a piano enthusiast. I find that these activities, much like coding, require a blend of creativity, discipline, and a constant desire to improve.
 
