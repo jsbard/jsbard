@@ -1,5 +1,8 @@
 ## Andrew B. Hickman
 
+### Full Stack Web Developer
+### Full Stack JavaScript | WordPress Themes and Plugins (Headless and Classic)
+
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewbhickman/)
 
 ### Languages and Tools:
