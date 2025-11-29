@@ -4,7 +4,7 @@ const { format } = require('date-fns');
 const parser = new Parser();
 
 const README_FILE = 'README.md';
-const FEED_URL = 'https://wordpresswhispers.com/feed/';
+const FEED_URL = 'https://fourthcoastweb.com/feed/';
 const POSTS_LIMIT = 4;
 
 (async () => {
