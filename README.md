@@ -1,7 +1,5 @@
-## Andrew B. Hickman
-
-### Full Stack Web Developer
-### Full Stack JavaScript | WordPress Themes and Plugins (Headless and Classic)
+# Andrew B. Hickman
+### Principal WordPress Engineer @ [Fourth Coast Web](https://fourthcoastweb.com)
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewbhickman/)
 
@@ -55,12 +53,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="andrewhickman.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://andrewhickman.me)
-[<img align="left" alt="WordPress Whispers | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />](https://wordpresswhispers.com)
-[<img align="left" alt="WPWhispers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/WPWhispers)
+[<img align="left" alt="andrewhickman.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://andrewhickman.me)
 [<img align="left" alt="Andrew B. Hickman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/andrewbhickman)
 
-
-
-<br />
-<br />
+<br><br>
