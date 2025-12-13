@@ -37,9 +37,8 @@
 
 <!--
 ---
--->
 ### 📚 Latest Blog Posts
-
+-->
 <!-- BLOGPOSTS:START -->
 <!--
 - [WordPress Whispers – Quick Update and New Posting Schedule](https://wordpresswhispers.com/wordpress-whispers-update-and-posting-schedule/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-whispers-update-and-posting-schedule) - *May 1st, 2024*
