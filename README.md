@@ -1,5 +1,5 @@
-# Andrew B. Hickman
-### Principal WordPress Engineer @ [Fourth Coast Web](https://fourthcoastweb.com)
+# Andrew Hickman
+## Principal WordPress Engineer
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewbhickman/)
 
